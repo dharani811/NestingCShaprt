@@ -1,0 +1,57 @@
+D:\Code\Office\NestingPlugin\Nesting Scribber\NestingLibPort\bin\Debug\NestingLibPort.dll
+D:\Code\Office\NestingPlugin\Nesting Scribber\NestingLibPort\bin\Debug\NestingLibPort.pdb
+D:\Code\Office\NestingPlugin\Nesting Scribber\NestingLibPort\bin\Debug\Clipper.dll
+D:\Code\Office\NestingPlugin\Nesting Scribber\NestingLibPort\bin\Debug\Clipper.pdb
+D:\Code\Office\NestingPlugin\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csprojResolveAssemblyReference.cache
+D:\Code\Office\NestingPlugin\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.dll
+D:\Code\Office\NestingPlugin\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.pdb
+C:\Users\Admin\Downloads\12.58\Nesting Scribber\NestingLibPort\bin\Debug\NestingLibPort.dll
+C:\Users\Admin\Downloads\12.58\Nesting Scribber\NestingLibPort\bin\Debug\NestingLibPort.pdb
+C:\Users\Admin\Downloads\12.58\Nesting Scribber\NestingLibPort\bin\Debug\Clipper.dll
+C:\Users\Admin\Downloads\12.58\Nesting Scribber\NestingLibPort\bin\Debug\Clipper.pdb
+C:\Users\Admin\Downloads\12.58\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\12.58\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\12.58\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csproj.CopyComplete
+C:\Users\Admin\Downloads\12.58\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.dll
+C:\Users\Admin\Downloads\12.58\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\NestingLibPort\bin\Debug\NestingLibPort.dll
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\NestingLibPort\bin\Debug\NestingLibPort.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\NestingLibPort\bin\Debug\clipper_library.dll
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\NestingLibPort\bin\Debug\clipper_library.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csprojAssemblyReference.cache
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csproj.CoreCompileInputs.cache
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csproj.CopyComplete
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.dll
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.pdb
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\NestingLibPort\bin\Debug\NestingLibPort.dll
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\NestingLibPort\bin\Debug\NestingLibPort.pdb
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\NestingLibPort\bin\Debug\clipper_library.dll
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\NestingLibPort\bin\Debug\clipper_library.pdb
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csprojResolveAssemblyReference.cache
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.dll
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\NestingLibPort\bin\Debug\NestingLibPort.dll
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\NestingLibPort\bin\Debug\NestingLibPort.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\NestingLibPort\bin\Debug\clipper_library.dll
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\NestingLibPort\bin\Debug\clipper_library.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csprojAssemblyReference.cache
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csproj.CoreCompileInputs.cache
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.csproj.CopyComplete
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.dll
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\NestingLibPort\obj\Debug\NestingLibPort.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\NestingLibPort\bin\Debug\NestingLibPort.dll
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\NestingLibPort\bin\Debug\NestingLibPort.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\NestingLibPort\bin\Debug\clipper_library.dll
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\NestingLibPort\bin\Debug\clipper_library.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\NestingLibPort\obj\Debug\NestingLibPort.csprojAssemblyReference.cache
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\NestingLibPort\obj\Debug\NestingLibPort.csproj.CoreCompileInputs.cache
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\NestingLibPort\obj\Debug\NestingLibPort.csproj.CopyComplete
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\NestingLibPort\obj\Debug\NestingLibPort.dll
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\NestingLibPort\obj\Debug\NestingLibPort.pdb
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingLibPort\bin\Debug\NestingLibPort.dll
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingLibPort\bin\Debug\NestingLibPort.pdb
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingLibPort\bin\Debug\clipper_library.dll
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingLibPort\bin\Debug\clipper_library.pdb
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingLibPort\obj\Debug\NestingLibPort.csprojResolveAssemblyReference.cache
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingLibPort\obj\Debug\NestingLibPort.dll
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingLibPort\obj\Debug\NestingLibPort.pdb

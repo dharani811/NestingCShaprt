@@ -1,0 +1,6 @@
+﻿1.ClassName & Variable Name fixing
+2.GeometryUtil.NoFitPolygon first two parameters should be readonly ( NestPath A, NestPath B)
+3.GeometryUtil Method Signature  public static Double polygonSlideDistance(final NestPath TA , final NestPath TB , Segment direction, boolean ignoreNegative)
+4.GeometryUtil Method Signature        public static boolean intersect(final NestPath CA, final NestPath CB)
+5.GeometryUtil.Linerialze "            list.AddToBack(arc);   "   was list.Add(arc).. caution needed here
+"

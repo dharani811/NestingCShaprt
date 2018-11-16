@@ -1,0 +1,10 @@
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingConsole\bin\Debug\NestingConsole.exe.config
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingConsole\bin\Debug\NestingConsole.exe
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingConsole\bin\Debug\NestingConsole.pdb
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingConsole\bin\Debug\NestingLibPort.dll
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingConsole\bin\Debug\clipper_library.dll
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingConsole\bin\Debug\NestingLibPort.pdb
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingConsole\bin\Debug\clipper_library.pdb
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingConsole\obj\Debug\NestingConsole.csprojResolveAssemblyReference.cache
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingConsole\obj\Debug\NestingConsole.exe
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\NestingConsole\obj\Debug\NestingConsole.pdb

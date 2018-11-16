@@ -1,0 +1,25 @@
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\clipper\bin\Debug\clipper_library.dll
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\clipper\bin\Debug\clipper_library.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\clipper\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\clipper\obj\Debug\clipper_library.dll
+E:\Nesting Plugin Backup\Nesting\Nesting Clipper(Angusj)\Nesting Scribber\clipper\obj\Debug\clipper_library.pdb
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\clipper\bin\Debug\clipper_library.dll
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\clipper\bin\Debug\clipper_library.pdb
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\clipper\obj\Debug\clipper_library.csprojResolveAssemblyReference.cache
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\clipper\obj\Debug\clipper_library.dll
+C:\Users\Macrowire\Desktop\nesting 4J\Nesting Scribber\clipper\obj\Debug\clipper_library.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\clipper\bin\Debug\clipper_library.dll
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\clipper\bin\Debug\clipper_library.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\clipper\obj\Debug\clipper_library.csprojAssemblyReference.cache
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\clipper\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\clipper\obj\Debug\clipper_library.dll
+E:\Nesting Plugin Backup\Nesting\Nesting (27-October 06-47pm)\Nesting Scribber\clipper\obj\Debug\clipper_library.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\clipper\bin\Debug\clipper_library.dll
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\clipper\bin\Debug\clipper_library.pdb
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\clipper\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\clipper\obj\Debug\clipper_library.dll
+E:\Nesting Plugin Backup\Nesting\Nesting (Output)\Initial Output & verified\Nesting Final UI\Nesting With UI\clipper\obj\Debug\clipper_library.pdb
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\clipper\bin\Debug\clipper_library.dll
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\clipper\bin\Debug\clipper_library.pdb
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\clipper\obj\Debug\clipper_library.dll
+D:\Code\Office\NestingPlugin\Nesting With UI\Nesting With UI\clipper\obj\Debug\clipper_library.pdb
