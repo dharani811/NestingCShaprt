@@ -1,5 +1,7 @@
 This a port of Nesting library written in Java at https://github.com/exacloud/Nest4J
 
+Not complete yet, but basics work.Working on it, will keep you posted.
+
 i/p is XML format
 
 o/p will be generated in SVG format
